@@ -29,7 +29,7 @@ User:
 Task 3 – Outliers
 
 You:
-“Do you see any unusual countries?”
+“Look for any outliers or anomalies in the data. Do you see any unusual countries?”
 
 User:
 “Yeah some points are way lower than others, especially in developing.”
