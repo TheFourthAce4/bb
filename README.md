@@ -19,7 +19,7 @@ User:
 Task 2 – Compare Categories
 
 You:
-“Now compare developed vs developing.”
+“Use the filter or dropdown and compare developed vs developing.”
 
 User:
 “Switching… okay yeah, developed countries are clearly higher on life expectancy.”
